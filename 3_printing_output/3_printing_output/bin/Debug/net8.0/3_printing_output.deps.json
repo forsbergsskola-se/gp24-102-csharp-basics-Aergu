@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3_printing_output/1.0.0": {
+        "runtime": {
+          "3_printing_output.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_printing_output/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

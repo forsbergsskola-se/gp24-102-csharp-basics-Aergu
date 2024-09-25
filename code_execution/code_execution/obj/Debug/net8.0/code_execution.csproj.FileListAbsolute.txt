@@ -1,0 +1,14 @@
+C:\Users\media\joshua_aroka\code_execution\code_execution\bin\Debug\net8.0\code_execution.exe
+C:\Users\media\joshua_aroka\code_execution\code_execution\bin\Debug\net8.0\code_execution.deps.json
+C:\Users\media\joshua_aroka\code_execution\code_execution\bin\Debug\net8.0\code_execution.runtimeconfig.json
+C:\Users\media\joshua_aroka\code_execution\code_execution\bin\Debug\net8.0\code_execution.dll
+C:\Users\media\joshua_aroka\code_execution\code_execution\bin\Debug\net8.0\code_execution.pdb
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.AssemblyInfoInputs.cache
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.AssemblyInfo.cs
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.csproj.CoreCompileInputs.cache
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.dll
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\refint\code_execution.dll
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.pdb
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\code_execution.genruntimeconfig.cache
+C:\Users\media\joshua_aroka\code_execution\code_execution\obj\Debug\net8.0\ref\code_execution.dll
