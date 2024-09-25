@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\bin\Debug\net8.0\7_reading_input.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\bin\Debug\net8.0\7_reading_input.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\bin\Debug\net8.0\7_reading_input.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\bin\Debug\net8.0\7_reading_input.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\bin\Debug\net8.0\7_reading_input.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\refint\7_reading_input.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\7_reading_input.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\7_reading_input\7_reading_input\obj\Debug\net8.0\ref\7_reading_input.dll
