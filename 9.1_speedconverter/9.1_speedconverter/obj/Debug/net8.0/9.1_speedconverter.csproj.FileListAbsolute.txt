@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\bin\Debug\net8.0\9.1_speedconverter.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\bin\Debug\net8.0\9.1_speedconverter.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\bin\Debug\net8.0\9.1_speedconverter.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\bin\Debug\net8.0\9.1_speedconverter.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\bin\Debug\net8.0\9.1_speedconverter.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\refint\9.1_speedconverter.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\9.1_speedconverter.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.1_speedconverter\9.1_speedconverter\obj\Debug\net8.0\ref\9.1_speedconverter.dll
