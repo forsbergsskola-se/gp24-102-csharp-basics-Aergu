@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\bin\Debug\net8.0\8_conversion.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\bin\Debug\net8.0\8_conversion.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\bin\Debug\net8.0\8_conversion.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\bin\Debug\net8.0\8_conversion.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\bin\Debug\net8.0\8_conversion.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\refint\8_conversion.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\8_conversion.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\8_conversion\8_conversion\obj\Debug\net8.0\ref\8_conversion.dll
