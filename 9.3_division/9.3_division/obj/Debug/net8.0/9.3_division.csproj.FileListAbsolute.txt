@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\bin\Debug\net8.0\9.3_division.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\bin\Debug\net8.0\9.3_division.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\bin\Debug\net8.0\9.3_division.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\bin\Debug\net8.0\9.3_division.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\bin\Debug\net8.0\9.3_division.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\refint\9.3_division.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\9.3_division.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.3_division\9.3_division\obj\Debug\net8.0\ref\9.3_division.dll
