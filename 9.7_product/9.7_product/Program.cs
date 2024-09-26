@@ -6,6 +6,6 @@ int input = int.Parse(Console.ReadLine());
 
 int input2 = int.Parse(Console.ReadLine());
 
-double answer = input * input2;
+input *= input2;
 
-Console.WriteLine(answer);
+Console.WriteLine(input);
