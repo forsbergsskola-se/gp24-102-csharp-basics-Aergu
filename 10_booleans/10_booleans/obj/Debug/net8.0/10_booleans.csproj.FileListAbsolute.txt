@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\bin\Debug\net8.0\10_booleans.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\bin\Debug\net8.0\10_booleans.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\bin\Debug\net8.0\10_booleans.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\bin\Debug\net8.0\10_booleans.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\bin\Debug\net8.0\10_booleans.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\refint\10_booleans.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\10_booleans.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\10_booleans\10_booleans\obj\Debug\net8.0\ref\10_booleans.dll
