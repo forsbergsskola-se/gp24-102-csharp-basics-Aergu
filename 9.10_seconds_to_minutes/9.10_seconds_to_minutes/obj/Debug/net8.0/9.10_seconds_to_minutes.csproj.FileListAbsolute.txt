@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\bin\Debug\net8.0\9.10_seconds_to_minutes.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\bin\Debug\net8.0\9.10_seconds_to_minutes.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\bin\Debug\net8.0\9.10_seconds_to_minutes.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\bin\Debug\net8.0\9.10_seconds_to_minutes.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\bin\Debug\net8.0\9.10_seconds_to_minutes.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\refint\9.10_seconds_to_minutes.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\9.10_seconds_to_minutes.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.10_seconds_to_minutes\9.10_seconds_to_minutes\obj\Debug\net8.0\ref\9.10_seconds_to_minutes.dll
