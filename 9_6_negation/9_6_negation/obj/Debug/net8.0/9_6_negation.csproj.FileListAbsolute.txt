@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\bin\Debug\net8.0\9_6_negation.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\bin\Debug\net8.0\9_6_negation.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\bin\Debug\net8.0\9_6_negation.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\bin\Debug\net8.0\9_6_negation.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\bin\Debug\net8.0\9_6_negation.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\refint\9_6_negation.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\9_6_negation.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_6_negation\9_6_negation\obj\Debug\net8.0\ref\9_6_negation.dll
