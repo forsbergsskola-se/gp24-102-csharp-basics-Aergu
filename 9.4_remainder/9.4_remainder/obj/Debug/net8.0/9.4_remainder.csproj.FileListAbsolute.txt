@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\bin\Debug\net8.0\9.4_remainder.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\bin\Debug\net8.0\9.4_remainder.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\bin\Debug\net8.0\9.4_remainder.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\bin\Debug\net8.0\9.4_remainder.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\bin\Debug\net8.0\9.4_remainder.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\refint\9.4_remainder.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\9.4_remainder.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.4_remainder\9.4_remainder\obj\Debug\net8.0\ref\9.4_remainder.dll
