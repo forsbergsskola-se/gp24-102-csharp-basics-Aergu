@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\bin\Debug\net8.0\9.8_bmi.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\bin\Debug\net8.0\9.8_bmi.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\bin\Debug\net8.0\9.8_bmi.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\bin\Debug\net8.0\9.8_bmi.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\bin\Debug\net8.0\9.8_bmi.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\refint\9.8_bmi.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\9.8_bmi.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.8_bmi\9.8_bmi\obj\Debug\net8.0\ref\9.8_bmi.dll
