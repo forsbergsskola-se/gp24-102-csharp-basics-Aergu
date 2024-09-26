@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\bin\Debug\net8.0\9.5_Circle_Area.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\bin\Debug\net8.0\9.5_Circle_Area.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\bin\Debug\net8.0\9.5_Circle_Area.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\bin\Debug\net8.0\9.5_Circle_Area.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\bin\Debug\net8.0\9.5_Circle_Area.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\refint\9.5_Circle_Area.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\9.5_Circle_Area.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.5_Circle_Area\9.5_Circle_Area\obj\Debug\net8.0\ref\9.5_Circle_Area.dll
