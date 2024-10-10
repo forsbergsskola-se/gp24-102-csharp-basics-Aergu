@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\bin\Debug\net8.0\9.9_hypotenuse.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\bin\Debug\net8.0\9.9_hypotenuse.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\bin\Debug\net8.0\9.9_hypotenuse.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\bin\Debug\net8.0\9.9_hypotenuse.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\bin\Debug\net8.0\9.9_hypotenuse.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\refint\9.9_hypotenuse.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\9.9_hypotenuse.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.9_hypotenuse\9.9_hypotenuse\obj\Debug\net8.0\ref\9.9_hypotenuse.dll

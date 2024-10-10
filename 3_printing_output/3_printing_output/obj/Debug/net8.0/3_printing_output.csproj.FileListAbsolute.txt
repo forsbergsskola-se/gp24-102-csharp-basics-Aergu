@@ -1,0 +1,15 @@
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\bin\Debug\net8.0\3_printing_output.exe
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\bin\Debug\net8.0\3_printing_output.deps.json
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\bin\Debug\net8.0\3_printing_output.runtimeconfig.json
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\bin\Debug\net8.0\3_printing_output.dll
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\bin\Debug\net8.0\3_printing_output.pdb
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.AssemblyInfoInputs.cache
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.AssemblyInfo.cs
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.csproj.CoreCompileInputs.cache
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.sourcelink.json
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.dll
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\refint\3_printing_output.dll
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.pdb
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\3_printing_output.genruntimeconfig.cache
+C:\Users\media\c#basics_joshua_aroka\3_printing_output\3_printing_output\obj\Debug\net8.0\ref\3_printing_output.dll

@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\bin\Debug\net8.0\9.2_minutestoseconds.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\bin\Debug\net8.0\9.2_minutestoseconds.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\bin\Debug\net8.0\9.2_minutestoseconds.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\bin\Debug\net8.0\9.2_minutestoseconds.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\bin\Debug\net8.0\9.2_minutestoseconds.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\refint\9.2_minutestoseconds.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\9.2_minutestoseconds.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9.2_minutestoseconds\9.2_minutestoseconds\obj\Debug\net8.0\ref\9.2_minutestoseconds.dll

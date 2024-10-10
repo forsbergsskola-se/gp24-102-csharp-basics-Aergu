@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\bin\Debug\net8.0\5_variables.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\bin\Debug\net8.0\5_variables.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\bin\Debug\net8.0\5_variables.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\bin\Debug\net8.0\5_variables.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\bin\Debug\net8.0\5_variables.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\refint\5_variables.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\5_variables.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\5_variables\5_variables\obj\Debug\net8.0\ref\5_variables.dll

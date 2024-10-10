@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\bin\Debug\net8.0\9_operators.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\bin\Debug\net8.0\9_operators.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\bin\Debug\net8.0\9_operators.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\bin\Debug\net8.0\9_operators.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\bin\Debug\net8.0\9_operators.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\refint\9_operators.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\9_operators.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\9_operators\9_operators\obj\Debug\net8.0\ref\9_operators.dll

@@ -1,0 +1,15 @@
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\bin\Debug\net8.0\11_conditional_branching.exe
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\bin\Debug\net8.0\11_conditional_branching.deps.json
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\bin\Debug\net8.0\11_conditional_branching.runtimeconfig.json
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\bin\Debug\net8.0\11_conditional_branching.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\bin\Debug\net8.0\11_conditional_branching.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.AssemblyInfoInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.AssemblyInfo.cs
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.csproj.CoreCompileInputs.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.sourcelink.json
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\refint\11_conditional_branching.dll
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.pdb
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\11_conditional_branching.genruntimeconfig.cache
+B:\Projects\gp24-102-csharp-basics-Aergu\11_conditional_branching\11_conditional_branching\obj\Debug\net8.0\ref\11_conditional_branching.dll
